@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-QR Research/Pods-QR Research-frameworks.sh
+${PODS_ROOT}/MPQRCoreSDK/Frameworks/MPQRCoreSDK.framework
+${BUILT_PRODUCTS_DIR}/QRCodeReaderViewController/QRCodeReaderViewController.framework
